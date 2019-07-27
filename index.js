@@ -17,7 +17,8 @@ var showToaster = function(currentWindow, msg) {
 		frame: false,
 		show : false,
 		"skip-taskbar": true,
-		"always-on-top": true
+		"always-on-top": true,
+		nodeIntegration: true
 	});
 
 
